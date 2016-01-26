@@ -1,5 +1,5 @@
 # Eular 1: Multiple of 3 and 5
-# xx
+
 
 def m35(n):
     sum = 0
